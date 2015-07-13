@@ -104,7 +104,7 @@
  *  Critical/explanation :    [yes / No]
  **************************************************************/
 
-void SchM_OsTick(void)
+void SchM_OsTicks(void)
 {
-	
+	int fds;	
 }

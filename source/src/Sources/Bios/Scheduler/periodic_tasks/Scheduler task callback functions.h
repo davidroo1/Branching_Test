@@ -78,6 +78,7 @@ extern void SchM_Task_12p5ms(void);
 extern void SchM_Task_25ms(void);
 extern void SchM_Task_50ms(void);
 extern void SchM_Task_100ms(void);
+extern void SchM_Task_200ms(void);
 
 /* Functions macros */
 
