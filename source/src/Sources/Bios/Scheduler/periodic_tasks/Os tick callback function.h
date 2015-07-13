@@ -70,7 +70,7 @@
 /* ---------------------------------------- */
 
 /* Functions prototypes */
-extern void SchM_OsTick(void);
+extern void SchM_OsTicks(void);
 
 /* Functions macros */
 
